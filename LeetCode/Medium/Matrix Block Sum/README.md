@@ -9,7 +9,7 @@
 | **Tags** | Array, Matrix, Prefix Sum |
 | **Link** | [View Problem](https://leetcode.com/problems/matrix-block-sum/) |
 | **Runtime** | 0 ms |
-| **Memory** | 14 MB |
+| **Memory** | 13.8 MB |
 
 ## Problem Description
 

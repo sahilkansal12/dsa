@@ -7,6 +7,7 @@ All solved problems organized by pattern/category.
 - [Search a 2D Matrix II](./LeetCode/Medium/Search%20a%202D%20Matrix%20II) - *Medium*
 
 ## Uncategorized
+- [First Negative in Windows of Size K](./GeeksForGeeks/Medium/First%20Negative%20in%20Windows%20of%20Size%20K) - *Medium*
 - [Stamping the Grid](./LeetCode/Hard/Stamping%20the%20Grid) - *Hard*
 - [Matrix Block Sum](./LeetCode/Medium/Matrix%20Block%20Sum) - *Medium*
 - [Range Sum Query 2D - Immutable](./LeetCode/Medium/Range%20Sum%20Query%202D%20-%20Immutable) - *Medium*

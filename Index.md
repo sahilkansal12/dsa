@@ -7,6 +7,7 @@ All solved problems organized by pattern/category.
 - [Search a 2D Matrix II](./LeetCode/Medium/Search%20a%202D%20Matrix%20II) - *Medium*
 
 ## Uncategorized
+- [Valid Anagram](./LeetCode/Easy/Valid%20Anagram) - *Easy*
 - [Repeated Character](./GeeksForGeeks/Easy/Repeated%20Character) - *Easy*
 - [Rotate String](./LeetCode/Easy/Rotate%20String) - *Easy*
 - [Reverse String](./LeetCode/Easy/Reverse%20String) - *Easy*

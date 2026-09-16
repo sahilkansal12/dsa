@@ -7,6 +7,7 @@ All solved problems organized by pattern/category.
 - [Search a 2D Matrix II](./LeetCode/Medium/Search%20a%202D%20Matrix%20II) - *Medium*
 
 ## Uncategorized
+- [Find the Index of the First Occurrence in a String](./LeetCode/Easy/Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String) - *Easy*
 - [Valid Anagram](./LeetCode/Easy/Valid%20Anagram) - *Easy*
 - [Repeated Character](./GeeksForGeeks/Easy/Repeated%20Character) - *Easy*
 - [Rotate String](./LeetCode/Easy/Rotate%20String) - *Easy*

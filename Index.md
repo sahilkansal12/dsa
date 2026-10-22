@@ -7,6 +7,7 @@ All solved problems organized by pattern/category.
 - [Search a 2D Matrix II](./LeetCode/Medium/Search%20a%202D%20Matrix%20II) - *Medium*
 
 ## Uncategorized
+- [Remove Cycle in Linked List](./GeeksForGeeks/Medium/Remove%20Cycle%20in%20Linked%20List) - *Medium*
 - [Matrix Diagonal Sum](./LeetCode/Easy/Matrix%20Diagonal%20Sum) - *Easy*
 - [Third Maximum Number](./LeetCode/Easy/Third%20Maximum%20Number) - *Easy*
 - [Smallest Index With Equal Value](./LeetCode/Easy/Smallest%20Index%20With%20Equal%20Value) - *Easy*

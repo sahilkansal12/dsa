@@ -7,6 +7,7 @@ All solved problems organized by pattern/category.
 - [Search a 2D Matrix II](./LeetCode/Medium/Search%20a%202D%20Matrix%20II) - *Medium*
 
 ## Uncategorized
+- [Remove Nth Node From End of List](./LeetCode/Medium/Remove%20Nth%20Node%20From%20End%20of%20List) - *Medium*
 - [Remove Duplicates from Linked List](./GeeksForGeeks/Easy/Remove%20Duplicates%20from%20Linked%20List) - *Easy*
 - [Remove Duplicates in Sorted Linked List](./GeeksForGeeks/Easy/Remove%20Duplicates%20in%20Sorted%20Linked%20List) - *Easy*
 - [Remove Cycle in Linked List](./GeeksForGeeks/Medium/Remove%20Cycle%20in%20Linked%20List) - *Medium*

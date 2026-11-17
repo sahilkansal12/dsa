@@ -7,6 +7,7 @@ All solved problems organized by pattern/category.
 - [Search a 2D Matrix II](./LeetCode/Medium/Search%20a%202D%20Matrix%20II) - *Medium*
 
 ## Uncategorized
+- [Flatten a Multilevel Doubly Linked List](./LeetCode/Medium/Flatten%20a%20Multilevel%20Doubly%20Linked%20List) - *Medium*
 - [Remove Duplicates from Sorted List II](./LeetCode/Medium/Remove%20Duplicates%20from%20Sorted%20List%20II) - *Medium*
 - [Reverse a Doubly Linked List](./GeeksForGeeks/Easy/Reverse%20a%20Doubly%20Linked%20List) - *Easy*
 - [Reverse Linked List](./GeeksForGeeks/Unknown/Reverse%20Linked%20List) - *Unknown*
